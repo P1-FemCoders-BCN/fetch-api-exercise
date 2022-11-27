@@ -1,4 +1,4 @@
-# Curious facts API
+# 👀 Curious facts API
 
 API DOC:
 https://uselessfacts.jsph.pl/
