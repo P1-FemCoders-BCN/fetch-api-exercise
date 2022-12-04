@@ -18,4 +18,4 @@ https://uselessfacts.jsph.pl/random.json?language=en
 1. Create a folder 'src' that contains an index.html and api.js files.
 2. Call with FetchAPI to the useless facts api, get random facts and render on screen.
 3. Render on screen in a favourite list the useless facts that you like.
-4. Put the styles tha you like.
+4. Put the styles that you like.
